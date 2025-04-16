@@ -11,14 +11,14 @@
 <h3 align="center">Frontend Developer | Java, HTML, CSS, JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Scalable+Web+Applications;Java+%7C+Spring+Boot+%7C+React.js+%7C+MySQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Awesome+Websites;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React.js+%7C+SQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
 </p>
 
 
 ---
 
 ### 👨‍💻 About Me  
-![](https://komarev.com/ghpvc/?username=K-Nishant-18e&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=triptisharma07e&label=PROFILE+VIEWS)
 
 <table>
   <tr>
@@ -31,7 +31,6 @@
       <ul>
          <li>🎓 <strong>CS Engineering Student</strong> at JIS College of Engineering (2022-2026)</li>
         <li>💻 <strong>Frontend Developer</strong> focusing on <strong>HTML, CSS </strong> & <strong>React.js</strong></li>
-        <li>🔒 Dedicated to building <strong>secure web applications</strong> with <strong>JWT</strong> & <strong>Spring Security</strong></li>
         <li>🌱 Passionate about creating <strong>high-performance, user-friendly solutions</strong></li>
       </ul>
     </td>
@@ -56,33 +55,24 @@
   <tr>
     <td align="center"><strong>Programming Languages</strong></td>
     <td align="center"><strong>Frontend Development</strong></td>
-    <td align="center"><strong>Backend Development</strong></td>
     <td align="center"><strong>Databases</strong></td>
   </tr>
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/>
    <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React.js"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/>
-       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind CSS"/>
       <img src="https://vitejs.dev/logo.svg" width="50" height="50" alt="Vite"/>
   </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="50" height="50" alt="Spring Boot"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker"/>
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes"/>
-    </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" alt="Postman"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50" alt="MongoDB"/>
     </td>
-
   </tr>
 </table>
 
@@ -90,7 +80,6 @@
   <tr>
     <td align="center"><strong>Version Control & CI/CD</strong></td>
     <td align="center"><strong>Tools & IDEs</strong></td>
-    <td align="center"><strong>Cloud & Deployment</strong></td>
   </tr>
   <tr>
     <td align="center">
@@ -99,12 +88,6 @@
     </td>
     <td align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50" alt="Notion"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50" alt="IntelliJ IDEA"/>
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="50" height="50" alt="Vercel"/>
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="50" height="50" alt="Heroku"/>
     </td>
   </tr>
 </table>
