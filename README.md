@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi there, I'm Tripti Sharma 👋</h1>
-<h3 align="center">Frontend Developer | Java, HTML, CSS, JavaScript</h3>
+<h3 align="center">Python Developer | Java,Pytho, HTML, CSS, JavaScript| Aspiring Data Analyst </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2b83e7&center=true&vCenter=true&width=800&lines=Building+Awesome+Websites;Java+%7C+HTML+%7C+CSS+%7C+JavaScript+%7C+React.js+%7C+SQL;Innovating+Tech+Solutions+With+Passion" alt="Typing SVG" />
